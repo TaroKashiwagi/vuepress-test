@@ -14,7 +14,7 @@
     "vuepress": "^1.0.0-alpha.37"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "vuex": "^3.1.0"
   },
   "scripts": {
